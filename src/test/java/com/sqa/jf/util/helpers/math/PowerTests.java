@@ -10,11 +10,8 @@
 
 package com.sqa.jf.util.helpers.math;
 
-import org.junit.Assert;
-import org.junit.Test;
-import org.junit.runner.RunWith;
-import org.junit.runners.Parameterized;
-import org.junit.runners.Parameterized.Parameters;
+import org.testng.annotations.Parameters;
+import org.testng.annotations.Test;
 
 import com.sqa.jf.util.helpers.MyMath;
 
@@ -30,7 +27,7 @@ import com.sqa.jf.util.helpers.MyMath;
  * @since 1.0
  *
  */
-@RunWith(value = Parameterized.class)
+// @RunWith(value = Parameterized.class)
 public class PowerTests {
 
 	@Parameters
@@ -60,6 +57,6 @@ public class PowerTests {
 		actualResult = MyMath.powerNumber(num, power);
 		String message = String.format("The result of %.0f to the power of %.0f is %.0f", num, power, actualResult);
 		System.out.println(message);
-		Assert.assertEquals(message, expectedResult, actualResult, 0);
+		// Assert.assertEquals(message, expectedResult, actualResult, 0);
 	}
 }

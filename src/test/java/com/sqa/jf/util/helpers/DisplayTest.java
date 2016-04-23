@@ -10,10 +10,9 @@
 
 package com.sqa.jf.util.helpers;
 
-import org.junit.AfterClass;
-import org.junit.BeforeClass;
-import org.junit.Ignore;
-import org.junit.Test;
+import org.testng.annotations.AfterClass;
+import org.testng.annotations.BeforeClass;
+import org.testng.annotations.Test;
 
 /**
  * DisplayTest //ADDD (description of class)
@@ -64,7 +63,7 @@ public class DisplayTest {
 	 * {@link com.sqa.jf.util.helpers.Display#displayArray(int[])}.
 	 */
 	@Test
-	@Ignore
+
 	public void testDisplayArray() {
 		int[] numbers = { 1, 2, 3, 4, 5 };
 		Display.displayArray(numbers);
