@@ -1,13 +1,14 @@
-#### Advanced Project
+#### Properties Project
 
-### April 20, 2016
+### April 27, 2016
 
-A advanced project for automation Projects
+A java project for automation Projects
 
 
 * Git
 * Java 7
 * Maven
 * Junit
+* Properties
 
 [Jayabhanu](http://salceforce.com)
