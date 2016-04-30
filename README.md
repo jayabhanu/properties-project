@@ -1,13 +1,11 @@
-#### Java-Project
+#### Advanced Project
 
-### April 27, 2016
+### April 20, 2016
 
-Application used for Junit testing
+A advanced project for automation Projects
 
 * Git
 * Java 7
 * Maven
-* Junit
-* Testing Framework
 
 [Jayabhanu](http://salceforce.com)
