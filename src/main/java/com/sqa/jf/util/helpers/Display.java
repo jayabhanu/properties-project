@@ -1,9 +1,7 @@
 /**
  *   File Name: Display.java<br>
  *
- *   Nepton, Jean-francois<br>
- *   Java Boot Camp Exercise<br>
- *   Instructor: Jean-francois Nepton<br>
+ *   Gajula Jayabhanu<br>
  *   Created: Apr 4, 2016
  *
  */
@@ -17,7 +15,7 @@ package com.sqa.jf.util.helpers;
  * <p>
  * //ADDD (description of core methods)
  *
- * @author Nepton, Jean-francois
+ * @author Gajula Jayabhanu
  * @version 1.0.0
  * @since 1.0
  *

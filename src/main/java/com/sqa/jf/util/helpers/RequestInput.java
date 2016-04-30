@@ -1,10 +1,8 @@
 /**
  *   File Name: RequestInput.java<br>
  *
- *   Nepton, Jean-francois<br>
- *   Java Boot Camp Exercise<br>
- *   Instructor: Jean-francois Nepton<br>
- *   Created: Mar 30, 2016
+ *   Gajula Jayabhanu<br>
+ *	 Created: Mar 30, 2016
  *
  */
 
@@ -22,7 +20,7 @@ import com.sqa.jf.util.helpers.exceptions.InvalidAcceptableWordException;
  * Class which is used to get input from user and return an acceptable value.
  * </p>
  *
- * @author Nepton, Jean-francois
+ * @author Gajula Jayabhanu
  * @version 1.0.0
  * @since 1.0
  *

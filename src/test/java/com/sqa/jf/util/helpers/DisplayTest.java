@@ -1,18 +1,17 @@
 /**
  *   File Name: DisplayTest.java<br>
  *
- *   Nepton, Jean-francois<br>
- *   Java Boot Camp Exercise<br>
- *   Instructor: Jean-francois Nepton<br>
+ *   Gajula Jayabhanu<br>
+
  *   Created: Apr 4, 2016
  *
  */
 
 package com.sqa.jf.util.helpers;
 
-import org.testng.annotations.AfterClass;
-import org.testng.annotations.BeforeClass;
-import org.testng.annotations.Test;
+import org.junit.AfterClass;
+import org.junit.BeforeClass;
+import org.junit.Test;
 
 /**
  * DisplayTest //ADDD (description of class)
@@ -21,7 +20,7 @@ import org.testng.annotations.Test;
  * <p>
  * //ADDD (description of core methods)
  *
- * @author Nepton, Jean-francois
+ * @author Gajula Jayabhanu
  * @version 1.0.0
  * @since 1.0
  *
