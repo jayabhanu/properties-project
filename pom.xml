@@ -1,20 +1,37 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.ga</groupId>
+<<<<<<< HEAD
 
   <artifactId>java-project</artifactId>
+=======
+  <artifactId>advanced-project</artifactId>
+>>>>>>> 403956c2afc49ff68f5ea4aac35954573f9a1d84
   <version>1.0-SNAPSHOT</version>
-  <name>java Project</name>
-  <description>Application that is used for Junit testing</description>
+  <name>Advanced Project</name>
+  <description>Basic structure for feature branch project</description>
   	<dependencies>
+<<<<<<< HEAD
 	
+=======
+>>>>>>> 403956c2afc49ff68f5ea4aac35954573f9a1d84
 		<dependency>
 			<groupId>junit</groupId>
 			<artifactId>junit</artifactId>
 			<version>4.12</version>
 			<scope>test</scope>
 		</dependency>
+<<<<<<< HEAD
 	
+=======
+		
+		<dependency>
+	<groupId>org.seleniumhq.selenium</groupId>
+	<artifactId>selenium-java</artifactId>
+	<version>2.53.0</version>
+</dependency>
+
+>>>>>>> 403956c2afc49ff68f5ea4aac35954573f9a1d84
 	</dependencies>
 	<build>
 		<plugins>
