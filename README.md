@@ -1,13 +1,13 @@
-#### Basic-Auto-Project
+#### Java-Project
 
-### April 20, 2016
+### April 27, 2016
 
-A Basic Structure for core working dir
+Application used for Junit testing
 
 * Git
 * Java 7
 * Maven
-* TestNG
+* Junit
 * Testing Framework
 
 [Jayabhanu](http://salceforce.com)
